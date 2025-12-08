@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.simple {
+    background-color: rgb(245, 123, 141);
+    color: black;
+}
+
+.decorative {
+    background-color: rgb(238, 186, 90);
+}
+
+.simple,
+.decorative {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman' sans-serif;
+}
